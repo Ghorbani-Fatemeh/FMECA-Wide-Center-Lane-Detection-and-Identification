@@ -4,7 +4,7 @@ This repository contains an FMECA (Failure Modes, Effects, and Criticality Analy
 Contents:
 📂 FMECA_Analysis.xlsx – The main file containing failure mode assessments, severity rankings, and mitigation strategies.
 
-Key Features:
+###Key Features:
 ✅ Identification of failure modes in road environments
 ✅ Risk assessment with severity, occurrence, and detectability ratings
 ✅ Structured approach to prioritising critical issues
