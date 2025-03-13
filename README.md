@@ -16,4 +16,3 @@ This repository contains an FMECA (Failure Modes, Effects, and Criticality Analy
 ✅ Supports decision-making for safety improvements
 
 
-Feel free to explore, contribute, or use the dataset for research and analysis! 🚀
